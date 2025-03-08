@@ -1,0 +1,78 @@
+/*h1 {
+    color: red;
+}
+
+.class1 {
+    color: blue;
+}
+
+.class2 {
+    color: green;
+}
+
+.class3{
+    color: purple
+}
+
+* {
+    color: orangered;
+}
+
+div p {
+    color: yellow;
+}
+
+section p {
+    color: rosebrown;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+p {
+    background-color: red;
+    color: white;
+    font-family: 'poppins';
+
+}*/
+
+
+
+/*p{
+    background: red;
+    padding: 100px; 
+    margin: 100px;  
+    border: 20px solid black;
+    border-radius: 100px;
+
+    cursor: pointer;
+
+    transition: background 10s;
+
+}
+
+p:hover{
+    background: blue;
+    color: white;
+}
+*/
+
+button {
+    background-color: blue;
+    color: black;
+    border-radius: 10px;
+
+    padding: 10px;
+    margin: 10px;
+
+    cursor: pointer;
+
+    transition: background 08s;
+}
+
+button:hover {
+    background-color: cyan;
+    color: white;
+}
+
